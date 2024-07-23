@@ -50,12 +50,12 @@ The cosine similarity score between the input and the predicted text (after embe
 ## Human Interpretability Evaluation
 
 ### Arabic Model:
-![Arabic Model Evaluation](images/Arabic_model_results.png)
+![Arabic Model](images/Arabic_model_results.png)
 - **Seed Text:** الحزن
 - **Generated Output:** The model generates lines related to the topic, connecting sadness with the heart. However, the lines lack rhyme.
 
 ### English Model:
-![English Model Evaluation](images/English_model_results.png)
+![English Model](images/English_model_results.png)
 - **Seed Text:** happy
 - **Generated Output:** The model produces words like shine, love, good, and pleasure, all related to the seed text. It connects "happy" with "soul" in a meaningful context.
 
